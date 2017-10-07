@@ -1,0 +1,12 @@
+ul {
+    list-style-type: none;
+}
+
+.burger {
+    border: solid black 2px;
+}
+
+#cburger {
+    margin-bottom: 2%;
+    border: solid black 2px;
+}
